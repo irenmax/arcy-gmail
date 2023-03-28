@@ -1,123 +1,121 @@
 
 .nH:only-of-type {
-    background: var(--arc-palette-background);
+  background: var(--arc-palette-background);
+}
+
+/* general background */
+.nH.aqk.aql.bkL {
+  background: 
+    linear-gradient(
+      to top right, 
+      var(--arc-background-gradient-color0),
+      transparent,
+      var(--arc-background-gradient-color1)
+    ), /* replace with `;` without grain */
+    url(https://grainy-gradients.vercel.app/noise.svg); /* remove this line to remove grain from gradient */ 
+}
+
+.nH.bAw.nn.it {
+  background-color: transparent;
+}
+
+.nH.oy8Mbf.qp {
+  background-color: transparent;
+}
+
+.aef {
+  background: transparent;
+}
+/* header */ 
+.gb_Td.gb_ae.gb_0d {
+  background-color: transparent;
+}
+/* email list box*/
+.BltHke.nH.oy8Mbf.S4{ 
+  background-color: var(--arc-palette-hover);
+}
+.T-I.T-I-KE.L3 {
+  background-color: var(--arc-palette-hover);
+}
+.T-I.T-I-KE.L3:hover:hover {
+  background-color: var(--arc-palette-foregroundPrimary);
+}
+.ain > .TO {
+  background-color: var(--arc-palette-focus) !important;
+}
+.gb_Ze.gb_wf.aJf {
+  background-color: var(--arc-palette-hover);
+}
+.zA.yO {
+  background-color: transparent;
+}
+.zA.yO:hover {
+  background-color: rgba(32, 33, 36, 0.059);
+  box-shadow: none;
+}
+.zA.zE {
+  background-color: var(--arc-palette-hover);
+}
+span, a, div, td, h2 {
+  color: var(--arc-palette-title) !important;
+}
+.D.E.G-atb {
+  background-color: var(--arc-palette-hover);
+}
+.TD {
+  background-color: transparent !important;
+}
+.Bk {
+  background-color: var(--arc-palette-background);
+}
+
+@media (prefers-color-scheme: dark) {
+  .qj, .asa, .ams::before, [role="checkbox"] {
+    filter: saturate(500%) contrast(800%) brightness(500%) 
+        invert(100%) hue-rotate(120deg); 
   }
-  
-  /* general background */
-  .nH.aqk.aql.bkL {
-    background: 
-      linear-gradient(
-        to top right, 
-        var(--arc-background-gradient-color0),
-        transparent,
-        var(--arc-background-gradient-color1)
-      ),
-      url(https://grainy-gradients.vercel.app/noise.svg);
-  
-  }
-  
-  .nH.bAw.nn.it {
-    background-color: transparent;
-  }
-  
-  .nH.oy8Mbf.qp {
-    background-color: transparent;
-  }
-  
-  .aef {
-    background: transparent;
-  }
-  /* header */ 
-  .gb_Td.gb_ae.gb_0d {
-    background-color: transparent;
-  }
-  /* email list box*/
-  .BltHke.nH.oy8Mbf.S4{ 
-    background-color: var(--arc-palette-hover);
-  }
-  .T-I.T-I-KE.L3 {
-    background-color: var(--arc-palette-hover);
-  }
-  .T-I.T-I-KE.L3:hover:hover {
-    background-color: var(--arc-palette-foregroundPrimary);
-  }
-  .ain > .TO {
-    background-color: var(--arc-palette-focus) !important;
-  }
-  .gb_Ze.gb_wf.aJf {
-    background-color: var(--arc-palette-hover);
-  }
-  .zA.yO {
-    background-color: transparent;
+  .aim.ain  .qj  {
+    filter: saturate(500%) contrast(0%) brightness(500%) 
+        invert(100%) hue-rotate(120deg); 
   }
   .zA.yO:hover {
-    background-color: rgba(32, 33, 36, 0.059);
-    box-shadow: none;
+    background-color: rgba(240, 240, 240, 0.1)
   }
-  .zA.zE {
-    background-color: var(--arc-palette-hover);
+  form.aJf svg {
+    color: var(--arc-palette-maxContrastColor) !important;
   }
-  span, a, div, td, h2 {
-    color: var(--arc-palette-title) !important;
+  .H2 {
+    fill: var(--arc-palette-maxContrastColor) !important;
   }
-  .D.E.G-atb {
-    background-color: var(--arc-palette-hover);
-  }
-  .TD {
-    background-color: transparent !important;
-  }
-  .Bk {
-    background-color: var(--arc-palette-background);
-  }
-  
-  @media (prefers-color-scheme: dark) {
-    .qj, .asa, .ams::before, [role="checkbox"] {
-      filter: saturate(500%) contrast(800%) brightness(500%) 
-          invert(100%) hue-rotate(120deg); 
-    }
-    .aim.ain  .qj  {
-      filter: saturate(500%) contrast(0%) brightness(500%) 
-          invert(100%) hue-rotate(120deg); 
-    }
-    .zA.yO:hover {
-      background-color: rgba(240, 240, 240, 0.1)
-    }
-    form.aJf svg {
-      color: var(--arc-palette-maxContrastColor) !important;
-    }
-    .H2 {
-      fill: var(--arc-palette-maxContrastColor) !important;
-    }
-  }
-  
-  .nH.a98.iY, .amn, .adI  {
-    background-color: var(--arc-palette-background) !important;
-  }
-  .ams{
-    border: 1px solid var(--arc-palette-maxContrastColor) !important;
-  }
-  .nH.bkK {
-    padding-top: 10px;
-  }
-  
-  .aiC {
-    background-color: var(--arc-palette-title) !important;
-  }
-  
-  .aeN.WR.nH.oy8Mbf.bhZ.bym {
-    background-color: var(--arc-palette-background);
-  }
-  /* filter */
-  .HW.H0.H2.HD {
-    background-color: transparent;
-    border: 1px solid var(--arc-palette-maxContrastColor) !important;
-  
-  }
-  
-  /* TODO: 
-   - darkmode: icons that appear on hover
-  */
-  
-  
-  
-  
+}
+
+.nH.a98.iY, .amn, .adI, .aeJ  {
+  background-color: var(--arc-palette-background) !important;
+}
+.ams{
+  border: 1px solid var(--arc-palette-maxContrastColor) !important;
+}
+.nH.bkK {
+  padding-top: 10px;
+}
+
+.aiC {
+  background-color: var(--arc-palette-title) !important;
+}
+
+.aeN.WR.nH.oy8Mbf.bhZ.bym {
+  background-color: var(--arc-palette-background);
+}
+/* filter */
+.HW.H0.H2.HD {
+  background-color: transparent;
+  border: 1px solid var(--arc-palette-maxContrastColor) !important;
+
+}
+
+/* TODO: 
+ - darkmode: icons that appear on hover
+*/
+
+
+
