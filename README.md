@@ -17,3 +17,5 @@ This boost applies the colors of your current Arc space to Gmail.
 - [ ] [🌙] Search field text and icons do not have the right color in dark mode
 - [ ] [🌙] The header has a weird box overlay in dark mode
 - [ ] [🌙] In darkmode, also the font color of email contents is recolored - makes in unreadable if the backgound is white 
+- [ ] Color of "Send" button in email reply
+- [ ] Background color of Toasts
