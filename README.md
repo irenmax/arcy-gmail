@@ -21,3 +21,4 @@ This boost applies the colors of your current Arc space to Gmail.
 - [ ] [🌙] In darkmode, also the font color of email contents is recolored - makes in unreadable if the backgound is white 
 - [ ] Color of "Send" button in email reply
 - [ ] Background color of Toasts
+- [ ] Color of element on drag&drop
