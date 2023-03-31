@@ -113,6 +113,11 @@ span, a, div, td, h2 {
 
 }
 
+/*search box*/
+.gb_ye.gb_7e.aJf {
+  background-color: var(--arc-palette-hover);
+}
+
 /* TODO: 
  - darkmode: icons that appear on hover
 */
