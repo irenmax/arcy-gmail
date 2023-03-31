@@ -4,6 +4,8 @@ This boost applies the colors of your current Arc space to Gmail.
 - 🌙 Supports dark mode
 - ✨ Grainy background gradient (can be easily changed to a gradient without noise)  
 
+![Demo](/screenshots/Arcy-Gmail.gif)
+
 <img src="https://user-images.githubusercontent.com/37368539/228774962-28328a81-d469-4a32-8801-c6fd1070e8a9.jpeg" width="48%"> <img src="https://user-images.githubusercontent.com/37368539/228775013-23aea19e-cd62-4c7c-ba7a-aadb0a529a08.jpeg" width="48%">  
 <img src="https://user-images.githubusercontent.com/37368539/228775066-a052358d-8a6e-48b5-ac35-28c0506e0b6a.png" width="48%"> <img src="https://user-images.githubusercontent.com/37368539/228775085-b0ea035e-82df-4f21-a060-ee6168ae98e0.jpeg" width="48%">
 ## Installation
