@@ -1,3 +1,7 @@
+/* This is injected after a web page loads */
+/**
+ * Boost Source: https://arcboosts.com/boosts/93/arcy-gmail#code_block
+ */
 
 .nH:only-of-type {
   background: var(--arc-palette-background);
@@ -26,10 +30,12 @@
 .aef {
   background: transparent;
 }
+
 /* header */ 
 .gb_Td.gb_ae.gb_0d {
   background-color: transparent;
 }
+
 /* email list box*/
 .BltHke.nH.oy8Mbf.S4{ 
   background-color: var(--arc-palette-hover);
@@ -117,10 +123,3 @@ span, a, div, td, h2 {
 .gb_ye.gb_7e.aJf {
   background-color: var(--arc-palette-hover);
 }
-
-/* TODO: 
- - darkmode: icons that appear on hover
-*/
-
-
-
