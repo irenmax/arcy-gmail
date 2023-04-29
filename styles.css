@@ -160,9 +160,10 @@ span, a, div, td, h2 {
   background-color: var(--arc-palette-hover); 
 }
 
-/* TODO: 
- - darkmode: icons that appear on hover
-*/
-
-
-
+/* sidebar */
+.aeN.WR.a6o.anZ.nH.oy8Mbf {
+  background-color: transparent;
+}
+.V6.CL.W9 {
+  background-color: var(--arc-palette-focus);
+}
