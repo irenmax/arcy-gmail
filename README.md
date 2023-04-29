@@ -4,6 +4,8 @@ This boost applies the colors of your current Arc space to Gmail.
 - 🌙 Supports dark mode
 - ✨ Grainy background gradient (can be easily changed to a gradient without noise) 
 
+⚠ It currently only supports Gmail, so if you use the Google Meet or Google Chat apps inside Gmail, the style of these apps will break. 
+
 ![Demo](/screenshots/Arcy-Gmail.gif)
 
 <img src="https://user-images.githubusercontent.com/37368539/228774962-28328a81-d469-4a32-8801-c6fd1070e8a9.jpeg" width="48%"> <img src="https://user-images.githubusercontent.com/37368539/228775013-23aea19e-cd62-4c7c-ba7a-aadb0a529a08.jpeg" width="48%">  
