@@ -1,4 +1,3 @@
-
 .nH:only-of-type {
   background: var(--arc-palette-background);
 }
@@ -28,8 +27,23 @@
 }
 /* header */ 
 .gb_Td.gb_ae.gb_0d {
-  background-color: transparent;
+  background-color: var(--arc-palette-background);
 }
+.gb_ud.gb_Kd.gb_Ad {
+  background-color: var(--arc-palette-background);
+}
+.gb_td.gb_cd.gb_dd {
+  background-color: var(--arc-palette-background);
+}
+
+/* Search field */
+.gb_Ee.gb_cf.aJf {
+  background-color: var(--arc-palette-hover);
+}
+.gb_Ee.gb_cf.aJf{
+  -webkit-text-fill-color: var(--arc-palette-title); 
+}
+
 /* email list box*/
 .BltHke.nH.oy8Mbf.S4{ 
   background-color: var(--arc-palette-hover);
@@ -115,7 +129,7 @@ span, a, div, td, h2 {
 
 /*search box*/
 .gb_ye.gb_7e.aJf {
-  background-color: var(--arc-palette-hover);
+  background-color: var(--arc-palette-hover); 
 }
 
 /* TODO: 
