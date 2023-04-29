@@ -25,6 +25,7 @@
 .aef {
   background: transparent;
 }
+
 /* header */ 
 .gb_Td.gb_ae.gb_0d {
   background-color: var(--arc-palette-background);
@@ -88,7 +89,7 @@ span, a, div, td, h2 {
     filter: saturate(500%) contrast(800%) brightness(500%) 
         invert(100%) hue-rotate(120deg); 
   }
-  .aim.ain  .qj  {
+  .aim.ain .qj  {
     filter: saturate(500%) contrast(0%) brightness(500%) 
         invert(100%) hue-rotate(120deg); 
   }
@@ -98,8 +99,35 @@ span, a, div, td, h2 {
   form.aJf svg {
     color: var(--arc-palette-maxContrastColor) !important;
   }
+  form.aJf svg {
+    color: var(--arc-palette-maxContrastColor) !important;
+  }
+
+  /* icons in header */
+  .zo svg {
+    color: var(--arc-palette-maxContrastColor) !important;
+  }
+  .FI svg {
+    color: var(--arc-palette-maxContrastColor) !important;
+  }
+  .gb_e svg {
+    color: var(--arc-palette-maxContrastColor) !important;
+  }
+  .gb_Kc svg {
+    color: var(--arc-palette-maxContrastColor) !important;
+  }
+
+
   .H2 {
     fill: var(--arc-palette-maxContrastColor) !important;
+  }
+
+  /* Search field */
+  .gb_Ee.gb_cf.aJf {
+    background-color: var(--arc-palette-focus);
+  }
+  .gb_Ee.gb_cf.aJf{
+    -webkit-text-fill-color: var(--arc-palette-maxContrastColor);
   }
 }
 
