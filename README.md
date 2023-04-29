@@ -24,3 +24,9 @@ This boost applies the colors of your current Arc space to Gmail.
 - [ ] Color of "Send" button in email reply
 - [ ] Background color of Toasts
 - [ ] Color of element on drag&drop
+
+## ChangeLog
+### 04/29/2023
+- improved header background and icons
+- search field now is better colored
+- colored the sidebar if Chat and Meet is active (other apps are not supported yet) 
