@@ -167,3 +167,15 @@ span, a, div, td, h2 {
 .V6.CL.W9 {
   background-color: var(--arc-palette-focus);
 }
+
+/* Tooltips */
+.T-ays div{
+  background-color: var(--arc-palette-background);
+}
+.T-ays-hFsbo div{
+  background-color: var(--arc-palette-background);
+}
+
+.gb_4e, .gb_Be, .gb_5e, .gb_Mc, .gb_rd {
+  background-color: var(--arc-palette-background) !important;
+}

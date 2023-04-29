@@ -2,7 +2,7 @@
 This boost applies the colors of your current Arc space to Gmail.
 
 - 🌙 Supports dark mode
-- ✨ Grainy background gradient (can be easily changed to a gradient without noise)  
+- ✨ Grainy background gradient (can be easily changed to a gradient without noise) 
 
 ![Demo](/screenshots/Arcy-Gmail.gif)
 
@@ -19,7 +19,7 @@ This boost applies the colors of your current Arc space to Gmail.
 ## Issues and pending refinements
 - [ ] [🌙] Some icons are not recolored correctly in dark mode
 - [ ] [🌙] Search field text and icons do not have the right color in dark mode
-- [ ] [🌙] The header has a weird box overlay in dark mode
+- [x] [🌙] The header has a weird box overlay in dark mode
 - [ ] [🌙] In darkmode, also the font color of email contents is recolored - makes in unreadable if the backgound is white 
 - [ ] Color of "Send" button in email reply
 - [ ] Background color of Toasts
@@ -30,3 +30,4 @@ This boost applies the colors of your current Arc space to Gmail.
 - improved header background and icons
 - search field now is better colored
 - colored the sidebar if Chat and Meet is active (other apps are not supported yet) 
+- tooltip background color
