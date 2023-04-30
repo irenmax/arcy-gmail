@@ -19,13 +19,7 @@ This boost applies the colors of your current Arc space to Gmail.
 
 
 ## Issues and pending refinements
-- [ ] [🌙] Some icons are not recolored correctly in dark mode
-- [ ] [🌙] Search field text and icons do not have the right color in dark mode
-- [x] [🌙] The header has a weird box overlay in dark mode
-- [ ] [🌙] In darkmode, also the font color of email contents is recolored - makes in unreadable if the backgound is white 
-- [ ] Color of "Send" button in email reply
-- [ ] Background color of Toasts
-- [ ] Color of element on drag&drop
+Known and open Issues are listed [here](https://github.com/irenmax/arcy-gmail/issues). Feel free to open a new issue or resolve an open one. 
 
 ## ChangeLog
 ### 04/29/2023
