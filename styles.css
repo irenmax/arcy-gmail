@@ -183,12 +183,15 @@ span, a, div, td, h2 {
   background-color: var(--arc-palette-background) !important;
 }
 
-/* modals and toasts */
+/* menu popups */
 .J-M.aX0.aYO.jQjAxd {
   background-color: var(--arc-palette-background);
 }
-
 [role="menuitem"]:hover {
   background-color: var(--arc-palette-hover);
 }
 
+/* toasts */
+.vh {
+  background-color: var(--arc-palette-background) !important;
+}
