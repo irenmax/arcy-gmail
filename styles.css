@@ -83,6 +83,9 @@ span, a, div, td, h2 {
 .Bk {
   background-color: var(--arc-palette-background);
 }
+.ya {
+  background-color: var(--arc-palette-background) !important;
+}
 
 @media (prefers-color-scheme: dark) {
   .qj, .asa, .ams::before, [role="checkbox"] {
@@ -179,3 +182,13 @@ span, a, div, td, h2 {
 .gb_4e, .gb_Be, .gb_5e, .gb_Mc, .gb_rd {
   background-color: var(--arc-palette-background) !important;
 }
+
+/* modals and toasts */
+.J-M.aX0.aYO.jQjAxd {
+  background-color: var(--arc-palette-background);
+}
+
+[role="menuitem"]:hover {
+  background-color: var(--arc-palette-hover);
+}
+
